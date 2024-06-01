@@ -1,0 +1,7 @@
+OOP -> a style of programming that uses classes and objects as its main focus
+Class -> a blueprint/template for a real-world object like a Student/Dog/House/Loan/Transaction
+Object -> an actual end product created out of the class, you can create as many object from a single class
+Instance variables(fields) - represent the properties of each object (id,name, age)
+Instance methods - represent the actions/behaviors of each object
+
+

@@ -1,0 +1,16 @@
+Mini-Project: Restaurant Reservation System
+Overview
+
+Develop a system to manage reservations for a restaurant, which includes handling different seating options like indoor tables, outdoor tables, and private rooms.
+Each type of seating will implement a common interface that manages reservation details.
+
+Requirements
+
+Interface:
+Reservable: An interface for making and managing reservations, including methods to book, cancel, and check reservation status.
+Concrete Classes:
+IndoorTable, OutdoorTable, PrivateRoom: Classes that implement the Reservable interface, each providing specific logic related to their seating type.
+ReservationManager Class:
+Manages a collection of Reservable objects, providing functionality to add, cancel, and display reservations.
+User Interface:
+A menu-driven console application for customers and staff to make reservations, cancel them, and check the status of different seating options.

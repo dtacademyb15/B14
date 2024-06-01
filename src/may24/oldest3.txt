@@ -1,0 +1,3 @@
+Student{id=7, first='Gayel', last='Costen', email='gcosten6@pagesperso-orange.fr', dob=1980-06-25, ssn='717-19-0166'}
+Student{id=11, first='Eilis', last='Middis', email='emiddisa@gnu.org', dob=1982-01-18, ssn='443-96-6358'}
+Student{id=3, first='Hester', last='Hitzke', email='hhitzke2@sina.com.cn', dob=1983-04-23, ssn='764-80-2796'}
